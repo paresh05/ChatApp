@@ -1,7 +1,7 @@
 {
   "name": "chat-app-backend",
   "version": "1.0.0",
-  "description": "A Chat Application using Socket Programming",
+  "description": "A Chat Application using Socket programming",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
