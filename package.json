@@ -4,8 +4,9 @@
   "description": "A Chat Application using Socket programming",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "test": "jest"
+    "start": "nodemon server/server.js",
+    "test": "jest",
+    "build": "cd frontend && npm install && npm run build"
   },
   "keywords": [],
   "author": "",
