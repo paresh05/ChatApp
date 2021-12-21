@@ -42,7 +42,6 @@
     ]
   },
   "devDependencies": {
-    "jest": "^26.6.0",
     "react-loading-screen": "0.0.17"
   }
 }
