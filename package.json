@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A Chat Application using Socket programming",
   "main": "server.js",
+  "engines": {
+    "node": "14.17.6",
+    "npm": "6.14.15"
+  },
   "scripts": {
     "start": "nodemon server/server.js",
     "test": "jest",
